@@ -1,0 +1,10 @@
+E:\Dot Net\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+E:\Dot Net\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+E:\Dot Net\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.CoreCompileInputs.cache
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+E:\Dot Net\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
